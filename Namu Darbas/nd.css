@@ -1,0 +1,60 @@
+.center{
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+article header h2{
+	text-align: right;
+}
+
+article p{
+	text-align: justify;
+}
+
+.center2{
+	text-align: center;
+}
+
+.font11{
+	font-family: 'Courier Prime', monospace;
+}
+
+.font1{
+	font-family: 'Italianno', cursive;
+}
+
+.font2{
+	font-family: 'MedievalSharp', cursive;
+}
+
+.font22{
+	font-family: 'Miltonian Tattoo', cursive;
+}
+
+.font3{
+font-family: 'Montserrat', sans-serif;
+}
+
+.font33{
+font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.font4{
+font-family: 'Norican', cursive;
+}
+   
+.font44{
+font-family: 'Raleway', sans-serif;
+}
+
+.font5{
+font-family: 'Satisfy', cursive;
+}
+
+.font55{
+font-family: 'Walter Turncoat', cursive;	
+}    

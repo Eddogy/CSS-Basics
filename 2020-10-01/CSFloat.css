@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	background-color:  #eee;
+	margin: 50px auto; /* px px px px top right bottom left, px px, top bottom, left right*/
+	 
+	border:2px solid #000;
+	border-top: 5px dashed #ee88ff;
+	padding: 25px;
+	width: 80%;
+}
+
+nav{
+	height: 50px;
+	background-color: #00ffdd;
+	padding: 5px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	list-style: none;
+	display: inline-block;
+	background-color: #ee88ff;
+	padding: 5px;
+}
+
+nav li:hover{
+	background-color: #ee55ff;
+}
+
+nav li a{
+	text-decoration: none;
+	color: #000;
+}

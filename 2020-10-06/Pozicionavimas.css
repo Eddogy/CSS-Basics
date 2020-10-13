@@ -1,0 +1,36 @@
+.container{
+	background-color: #eee;
+	width: 80%;
+	margin: 0 auto;
+}
+
+div div{
+	width:200px;
+	height:200px;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 180px;
+	margin:0 auto;
+}
+
+div div:nth-child(1){
+	background-color: #eedd88;
+}
+
+div div:nth-child(2){
+	background-color: #00dd88;
+}
+
+div div:nth-child(3){
+	background-color: #aadd88;
+}
+
+div div:nth-child(4){
+	background-color: #bbdd88;
+}
+
+div div:nth-child(5){
+	background-color: #ccdd88;
+}
+
+

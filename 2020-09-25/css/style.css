@@ -1,0 +1,45 @@
+body{
+	background:#eee url('../img/pic2.png') no-repeat; /*repeat-y*/
+	background-size: contain;
+	/*stretch background-size: cover; */
+}
+
+section
+{
+	background-color: rgba(97, 107, 120,0.4);
+	padding: 20px;
+
+}
+
+section h1{
+	color:#82b524;
+	font-size:2.23em;
+	
+}
+
+section h1, section h2{
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+section h2{
+	color:#915fc7;
+	font-size:1.8em;
+}
+
+section article p{
+	font-family: 'Open sans', sans-serif;
+	text-align: justify;
+}
+
+section article p span{
+	color: #c75056;
+	font-weight: bold; /*bolder 500*/
+	text-decoration: underline;
+	line-height: 2;
+}
+section article a{
+	text-decoration: none;;
+}
